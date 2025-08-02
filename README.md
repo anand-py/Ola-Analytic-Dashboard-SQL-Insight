@@ -150,12 +150,7 @@ Compare vehicle types on distance, revenue, success, and satisfaction—enabling
 
 ---
 
-📣 **Next Steps (Future Enhancements)**
 
-- Geo-spatial map of booking hotspots  
-- Monthly or hourly demand trends  
-- Driver churn or inactivity analysis  
-- Predictive analytics: Estimate likelihood of cancellation based on pattern  
 
 ---
 
